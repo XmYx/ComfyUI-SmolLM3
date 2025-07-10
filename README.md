@@ -89,10 +89,10 @@ Contributions are warmly welcomed! Feel free to:
 
 ## 🎨 About the Creator
 
-This node pack is crafted with love by [XmYx (Miklos Nagy)](https://github.com/XmYx), a VFX artist and ML enthusiast who believes in making AI tools accessible and fun for creators. Check out my other projects:
+This node pack is crafted with love by [XmYx (Miklos Nagy)](https://github.com/XmYx), a human, artist and ML enthusiast who believes in making AI tools accessible and fun for creators. Check out my other projects:
 
-- 🎬 [Deforum ComfyUI Nodes](https://github.com/XmYx/deforum-comfy-nodes) - AI animation node package
-- 🎯 [magixworld](http://magixworld.com) - Advanced HiDream wrapper
+- 🎬 [Deforum ComfyUI Nodes](https://github.com/XmYx/deforum-comfy-nodes)
+- 🎯 [magixworld](http://magixworld.com)
 
 ## 📜 License
 
